@@ -8,7 +8,7 @@ mkdir -p ~/.kube/config
 vi -p ~/.kube/config
 ```
 ## copy and paste the below
-
+```
 apiVersion: v1
 kind: Config
 clusters:
