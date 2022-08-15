@@ -1,7 +1,7 @@
 # Connecting-to-kubernetes-cluster
 ## Create a file on ~/.kube/config
 ```
-mkdir -p ~/.kube/config
+mkdir -p ~/.kube
 ```
 ## vim to the config file in .kube
 ```
